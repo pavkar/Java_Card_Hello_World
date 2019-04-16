@@ -1,0 +1,12 @@
+Digest for com/test/javacard/pack/javacard/StaticField.cap		[SHA-256: ae0e84da69ef8a4ac89b6346f175b53354d42edb90d531704e6f58f7fd0e75dc]
+Digest for com/test/javacard/pack/javacard/Debug.cap		[SHA-256: 1c8c8ab51f84a984cf3d624d5bc4bdbe0ab78cbb8901074c21499a51e7609dda]
+Digest for com/test/javacard/pack/javacard/Import.cap		[SHA-256: e58492b256b4af8d7f1860f18e57c5336e254a618c2518c987dcefb33db0a8d0]
+Digest for com/test/javacard/pack/javacard/RefLocation.cap		[SHA-256: 14f93ee650a744daaefc281640fd377840a10aeadd38c9a98a42660cca77e67e]
+Digest for com/test/javacard/pack/javacard/Descriptor.cap		[SHA-256: 45be3ab1ae46c0434bd1685d66f2cc80bde5c196d7eff073532a302b31f84e36]
+Digest for com/test/javacard/pack/javacard/Applet.cap		[SHA-256: 2ab7b4f99899bebef24d62f73c8b73d306ad8ba27e43be5fb1938eb1e3cf241c]
+Digest for com/test/javacard/pack/javacard/Header.cap		[SHA-256: c0d001703ad5798eda244028d08977a42c2fb6948a7328679b9b09879b4c794c]
+Digest for com/test/javacard/pack/javacard/Class.cap		[SHA-256: 6c68abd77e3481a00ae2462cfc8f416ae38d4d0e4b02c685145c39d30d132526]
+Digest for com/test/javacard/pack/javacard/ConstantPool.cap		[SHA-256: 67f938b58cf352c995992ebaceee1c5efe7100560b72dbd76785e4079c04ca22]
+Digest for com/test/javacard/pack/javacard/Method.cap		[SHA-256: 418c6862fca1a567d437333a15c54e2fa7e98c1ca75e5be39c26fe8f46357055]
+Digest for com/test/javacard/pack/javacard/Directory.cap		[SHA-256: e205aa8ec44c2fa346a28dfeefed118e4b82bddb9f44cb38909a277dc896573c]
+Verification completed with 0 warnings and 0 errors.

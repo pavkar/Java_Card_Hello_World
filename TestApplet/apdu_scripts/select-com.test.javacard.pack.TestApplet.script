@@ -1,0 +1,10 @@
+// Applet Selection APDU Script
+//
+// Package:     com.test.javacard.pack
+// Package AID: //aid/0001020304/
+// Applet:      TestApplet
+// Applet AID:  //aid/0001020304/05
+//
+
+// Select TestApplet applet
+0x00 0xA4 0x04 0x00 0x06 0x00 0x01 0x02 0x03 0x04 0x05 0x7F;
